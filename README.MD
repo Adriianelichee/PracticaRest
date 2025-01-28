@@ -10,9 +10,7 @@ Para que la aplicación funcione correctamente, es necesario seguir estos pasos:
 
 3. Conéctate a la base de datos MySQL con usuario y contraseña root.
 
-4. Importa los datos utilizando el archivo SQL adjunto en el github.
-
-5. Listo para utilizar en las siguientes URL'S: Frontend: http://localhost
+4. Listo para utilizar en las siguientes URL'S: Frontend: http://localhost
 API: http://localhost:8080
 
 
